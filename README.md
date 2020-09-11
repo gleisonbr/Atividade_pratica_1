@@ -2,6 +2,7 @@
 ###  Primeira atividade prática 
 
 
+
  **( A )** Leia um vetor de 12 posições, com elementos do tipo inteiro. A seguir, verifique o percentual de elementos em cada um dos seguintes intervalos: [1,20], [21,30], [31,50].
 > - Dados e resultados Esperados
 >  - Dados:  Dados Aleatórios.
@@ -26,7 +27,11 @@
 | 1 | 2 | 0 | 4 | 5 |
 | 1 | 0 | 3 | 4 | 5 |
 | 0 | 2 | 3 | 4 | 5 |
-<hr>
+
+**Compilacão** 
+```bash
+bash@user:~$ ./compile.sh nome_da_pasta
+```
 
 **Curso:** Tecnologia de sistemas para internet <br/>
 **Graduando da turma 2020/2  - [Ulbra](https://ulbra.br) Canoas/RS**
